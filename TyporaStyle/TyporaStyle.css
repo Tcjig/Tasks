@@ -1,0 +1,120 @@
+/* 全局样式 */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+}
+
+/* 标题样式 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #222;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* 段落样式 */
+p {
+    margin-bottom: 15px;
+}
+
+/* 链接样式 */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* 列表样式 */
+ul,
+ol {
+    margin-bottom: 15px;
+    padding-left: 30px;
+}
+
+/* 代码块样式 */
+pre {
+    background-color: #f8f8f8;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: auto;
+}
+
+code {
+    font-family: Consolas, monospace;
+}
+
+/* 引用样式 */
+blockquote {
+    border-left: 4px solid #ccc;
+    padding-left: 15px;
+    margin: 10px 0;
+    color: #666;
+}
+
+/* 表格样式 */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* 图片样式 */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* 代码高亮样式：关键字 */
+.keyword {
+    color: #007bff;
+}
+
+/* 代码高亮样式：字符串 */
+.string {
+    color: #28a745;
+}
+
+/* 代码高亮样式：注释 */
+.comment {
+    color: #868e96;
+}
+
+/* 代码高亮样式：数字 */
+.number {
+    color: #17a2b8;
+}
+
+/* 代码高亮样式：函数名 */
+.function {
+    color: #dc3545;
+}
+
+/* 代码高亮样式：变量 */
+.variable {
+    color: #6c757d;
+}
+
+/* 代码高亮样式：类名 */
+.class {
+    color: #6f42c1;
+}
