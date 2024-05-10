@@ -18,6 +18,10 @@
 - [CSS的学习](https://github.com/Tcjig/Tasks/blob/main/Note/CSS%E5%AD%A6%E4%B9%A0.md) :open_book:
 - [JavaScript的学习](https://github.com/Tcjig/Tasks/blob/main/Note/JS%E5%AD%A6%E4%B9%A0.md) :open_book:
 
+### :tv: 学习视频推荐
+- [HTML和CSS](https://www.bilibili.com/video/BV1kM4y127Li/?spm_id_from=333.337.search-card.all.click) :thumbsup:
+- [JavaScript](https://www.bilibili.com/video/BV1Y84y1L7Nn/?spm_id_from=333.337.search-card.all.click&vd_source=be2d49d637a41e45dcca97777ce72beb) :thumbsup:
+
 ## :four: 阶段4
 - [Geek招新网页制作](https://github.com/Tcjig/Tcjig.github.io) :computer:
 
