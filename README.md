@@ -25,14 +25,14 @@
 ## :four: stage 4
 - [Geek Website](https://github.com/Tcjig/Tcjig.github.io) :computer:
 
-## :four: stage 6
+## :six: stage 6
 - [Go Notes1](https://github.com/Tcjig/Tasks/blob/main/Notes/Go%20Notes.md) :open_book:
 - [Go Notes2](https://github.com/Tcjig/Tasks/blob/main/Notes/Go%20Notes(Simple).md) :open_book:
 
 ### :bulb: Demo
 - [tictactoe](https://github.com/Tcjig/Tasks/blob/main/GoDemo/GoProgram/tictactoe.go) :computer:
 
-## :four: stage 7
+## :seven: stage 7
 - [Network Notes](https://github.com/Tcjig/Tasks/blob/main/Notes/Network%20Notes.md) :open_book:
 - [Wireshark Notes](https://github.com/Tcjig/Tasks/blob/main/Notes/Wireshark%20Notes.md) :open_book:
 
