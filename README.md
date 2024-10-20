@@ -26,7 +26,8 @@
 - [Geek招新网页制作](https://github.com/Tcjig/Tcjig.github.io) :computer:
 
 ## :four: 阶段6
-- [Go的井字棋Demo]
+- [Go Notes1](https://github.com/Tcjig/Tasks/blob/main/Notes/Go%20Notes.md) :open_book:
+- [Go Notes2](https://github.com/Tcjig/Tasks/blob/main/Notes/Go%20Notes(Simple).md) :open_book:
 
   
   
