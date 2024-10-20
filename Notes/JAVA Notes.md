@@ -1,4 +1,4 @@
-# JAVA知识点
+# JAVA Notes
 
 ## 1.基础知识
 
